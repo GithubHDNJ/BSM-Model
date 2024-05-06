@@ -27,7 +27,7 @@ Future plans of the project involve
     Integrating machine learning adjustments to the model
 
 ## Contributing
-Fang Cheng Guo
+Fang Cheng Guo  
 Alek
 
 ## License
